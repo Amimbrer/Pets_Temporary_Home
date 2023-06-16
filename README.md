@@ -19,7 +19,7 @@ La aplicación tiene como objetivo buscar cuidadores de perros y gatos, pudiendo
 - Ver detalles de los cuidadores
 - Realizar reservas en días disponibles de los cuidadores
 
-**`¿Quñe destacaría de mi aplicación?`**
+**`¿Qué destacaría de mi aplicación?`**
 - Aunque está realizada con JavasScript el cual es un lenguaje de programación que en sus bases no es un *lenguaje orientado a objetos*, todo el código está realizado con clases, heredaciones, etc.
 - También cabe destacar de el uso de sesiones de JavaScript para ofrecer a los usuarios una experiencia más cómoda y menos repetititva.
 - Buen cuidado del diseño.
